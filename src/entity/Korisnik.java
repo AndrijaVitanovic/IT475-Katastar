@@ -16,6 +16,8 @@ public class Korisnik {
         return name;
     }
 
+
+    //Novi komentar
     public void setName(String name) {
         this.name = name;
     }
